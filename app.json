@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "HB Plus Workspace",
+    "slug": "hbplus-workspace",
+    "scheme": "hbplusworkspace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "fit.hbplus.workspace"
+    },
+    "android": {
+      "package": "fit.hbplus.workspace"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ]
+  }
+}
